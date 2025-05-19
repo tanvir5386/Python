@@ -1,6 +1,7 @@
 # number = int(input("Enter a number: "))
 # print("Even" if number % 2 == 0 else "Odd")
 
+
 # Check if a number is divisible by 5 or 7
 
 # num = int(input("Enter a number: "))
@@ -8,6 +9,7 @@
 #     print("Divisible by 5 or 7")
 # else:
 #     print("Not divisible by 5 or 7")
+
 
 
 #  Check if a number is even and also greater than 100
